@@ -11,18 +11,6 @@ describe('GET /users', () => {
 
 <<<<<<< HEAD
 
-
-
-
-
-
-
-
-
-
-
-
-
 const request = require('supertest');
 const app = require('../server');
 
@@ -36,3 +24,8 @@ describe('GET /users', () => {
 =======
 // TEST ALEX
 >>>>>>> 3dca408 (TestAlex1)
+
+
+
+
+test gabriel changement 

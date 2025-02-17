@@ -1,6 +1,7 @@
 const request = require('supertest');
 const app = require('../server');
 
+
 describe('GET /users-3', () => {
   it('should return a list of users', async () => {
     const res = await request(app).get('/users');

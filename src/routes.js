@@ -11,4 +11,4 @@ router.get('/users-2', (req, res) => {
 
 module.exports = router;
 
-"Ceci va créer un conflit" -Paul
+Première résolution de conflit - Paul et Julien

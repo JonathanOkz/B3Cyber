@@ -9,6 +9,7 @@ describe('GET /users', () => {
   });
 });
 
+<<<<<<< HEAD
 
 
 
@@ -32,3 +33,6 @@ describe('GET /users', () => {
     expect(res.body).toEqual([{ id: 1, name: 'Alice' }, { id: 2, name: 'Bob' }]);
   });
 });
+=======
+// TEST ALEX
+>>>>>>> 3dca408 (TestAlex1)
